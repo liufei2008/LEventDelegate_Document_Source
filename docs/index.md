@@ -133,3 +133,4 @@ Every event item editor have these function buttons that can help use easily set
 
 ## Known Limitations
 - Not support use inside ActorBlueprint's component.
+- Currently only support one parameter or no parameter.
